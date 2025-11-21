@@ -74,17 +74,4 @@ GND → -
 -   WiFiClientSecure.h
 -   HTTPClient.h
 
-## Fluxo do Sistema
 
-\[Botão ligado\] → Sistema ativo\
-↓\
-\[Presença detectada\] → Buzzer ON\
-↓\
-\[Cartão aproximado\] → UID lido\
-↓\
-\[Consulta CSV no GitHub\]\
-↓\
-UID cadastrado e treinamento OK?\
-↓\
-Sim → Desliga buzzer\
-Não → Continua o alarme
